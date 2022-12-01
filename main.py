@@ -17,8 +17,8 @@ city = os.environ.get('city')
 position = os.environ.get('position')
 city = province+city
 myvs_26 = os.environ.get('myvs_26', 2)
-jingdu = os.environ.get('jingdu', '113.534090')
-weidu = os.environ.get('weidu', '34.813699')
+jingdu = os.environ.get('jingdu', '115.31018')
+weidu = os.environ.get('weidu', '34.26915')
 
 
 print(f'username={username}')
